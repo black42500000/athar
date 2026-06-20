@@ -1,6 +1,7 @@
 import type {Metadata} from 'next';
 import { Playfair_Display, Poppins } from 'next/font/google';
 import './globals.css'; // Global styles
+import QuranPlayerWrapper from '@/components/quran-player-wrapper';
 
 const playfair = Playfair_Display({
   subsets: ['latin'],
@@ -24,6 +25,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
     <html lang="ar" dir="rtl" className={`${playfair.variable} ${poppins.variable} scroll-smooth`}>
       <body className="font-poppins text-white-pure antialiased bg-black-main overflow-x-hidden" suppressHydrationWarning>
         {children}
+        <QuranPlayerWrapper />
       </body>
     </html>
   );
