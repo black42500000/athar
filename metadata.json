@@ -1,0 +1,6 @@
+{
+  "name": "ATHAR Perfumes",
+  "description": "Luxury premium perfume brand website for ATHAR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

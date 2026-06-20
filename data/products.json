@@ -1,0 +1,52 @@
+[
+  {
+    "id": "erba-pura",
+    "name": "Erba Pura",
+    "tagline": "انتعاش فاكهي يلتقي بالفخامة.",
+    "image": "/erba-pura.jpeg",
+    "description": "انتعاش فاكهي ساحر يذوب في فخامة شرقية دافئة. عطر مخملي للجنسين، يفرض حضورك بفوحان استثنائي وثبات لا ينسى.",
+    "notes": [
+      { "label": "الافتتاحية", "desc": "حمضيات صقلية (برتقال ولمون)", "icon": "🍊" },
+      { "label": "القلب", "desc": "سلة فواكه متوسطية ناضجة", "icon": "🍑" },
+      { "label": "القاعدة", "desc": "فانيليا مدغشقر، مسك أبيض، عنبر دافئ", "icon": "🤍" }
+    ],
+    "features": [
+      { "name": "Unisex", "icon": "Sparkles" },
+      { "name": "Long Lasting", "icon": "Wind" },
+      { "name": "Strong Projection", "icon": "Droplets" }
+    ],
+    "prices": [
+      { "size": "30ml", "price": 200, "unit": "ml" },
+      { "size": "50ml", "price": 270, "unit": "ml" },
+      { "size": "100ml", "price": 550, "unit": "ml" }
+    ],
+    "active": true,
+    "createdAt": "2026-06-20T12:00:00.000Z",
+    "updatedAt": "2026-06-20T12:00:00.000Z"
+  },
+  {
+    "id": "pacific-chill",
+    "name": "Pacific Chill",
+    "tagline": "صيفك يبدأ من أول رشة 🌊",
+    "image": "/pacific-chill.jpeg",
+    "description": "مزيج منعش من الحمضيات والنعناع والريحان... إحساس بالنظافة والانتعاش يدوم لساعات طويلة ويأخذك في رحلة إلى شواطئ الصيف.",
+    "notes": [
+      { "label": "الافتتاحية", "desc": "نعناع، ليمون، برتقال", "icon": "🍋" },
+      { "label": "القلب", "desc": "ريحان، بذور الجزر، مشمش", "icon": "🌿" },
+      { "label": "القاعدة", "desc": "تين، تمور، ورد", "icon": "🌹" }
+    ],
+    "features": [
+      { "name": "Fresh", "icon": "Sun" },
+      { "name": "Vibrant", "icon": "Leaf" },
+      { "name": "Aquatic", "icon": "Waves" }
+    ],
+    "prices": [
+      { "size": "30ml", "price": 200, "unit": "ml" },
+      { "size": "50ml", "price": 270, "unit": "ml" },
+      { "size": "100ml", "price": 550, "unit": "ml" }
+    ],
+    "active": true,
+    "createdAt": "2026-06-20T12:00:00.000Z",
+    "updatedAt": "2026-06-20T12:00:00.000Z"
+  }
+]
